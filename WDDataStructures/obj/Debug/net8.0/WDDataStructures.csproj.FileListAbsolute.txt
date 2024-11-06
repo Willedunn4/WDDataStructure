@@ -1,0 +1,15 @@
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\bin\Debug\net8.0\WDDataStructures.exe
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\bin\Debug\net8.0\WDDataStructures.deps.json
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\bin\Debug\net8.0\WDDataStructures.runtimeconfig.json
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\bin\Debug\net8.0\WDDataStructures.dll
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\bin\Debug\net8.0\WDDataStructures.pdb
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\obj\Debug\net8.0\WDDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\obj\Debug\net8.0\WDDataStructures.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\obj\Debug\net8.0\WDDataStructures.AssemblyInfo.cs
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\obj\Debug\net8.0\WDDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\obj\Debug\net8.0\WDDataStructures.dll
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\obj\Debug\net8.0\refint\WDDataStructures.dll
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\obj\Debug\net8.0\WDDataStructures.pdb
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\obj\Debug\net8.0\WDDataStructures.genruntimeconfig.cache
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\obj\Debug\net8.0\ref\WDDataStructures.dll
+C:\Users\wille\source\repos\WDDataStructures\WDDataStructures\bin\Debug\net8.0\data.txt

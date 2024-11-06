@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wille\\source\\repos\\WDDataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}|WDDataStructures\\WDDataStructures.csproj|c:\\users\\wille\\source\\repos\\wddatastructures\\wddatastructures\\wddatastructures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}|WDDataStructures\\WDDataStructures.csproj|solutionrelative:wddatastructures\\wddatastructures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}|WDDataStructures\\WDDataStructures.csproj|c:\\users\\wille\\source\\repos\\wddatastructures\\wddatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}|WDDataStructures\\WDDataStructures.csproj|solutionrelative:wddatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}|WDDataStructures\\WDDataStructures.csproj|c:\\users\\wille\\source\\repos\\wddatastructures\\wddatastructures\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}|WDDataStructures\\WDDataStructures.csproj|solutionrelative:wddatastructures\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}|WDDataStructures\\WDDataStructures.csproj|c:\\users\\wille\\source\\repos\\wddatastructures\\wddatastructures\\datastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}|WDDataStructures\\WDDataStructures.csproj|solutionrelative:wddatastructures\\datastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WDDataStructures",
+              "DocumentMoniker": "C:\\Users\\wille\\source\\repos\\WDDataStructures\\WDDataStructures\\WDDataStructures.csproj",
+              "RelativeDocumentMoniker": "WDDataStructures\\WDDataStructures.csproj",
+              "ToolTip": "C:\\Users\\wille\\source\\repos\\WDDataStructures\\WDDataStructures\\WDDataStructures.csproj",
+              "RelativeToolTip": "WDDataStructures\\WDDataStructures.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T01:22:05.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\wille\\source\\repos\\WDDataStructures\\WDDataStructures\\data.txt",
+              "RelativeDocumentMoniker": "WDDataStructures\\data.txt",
+              "ToolTip": "C:\\Users\\wille\\source\\repos\\WDDataStructures\\WDDataStructures\\data.txt",
+              "RelativeToolTip": "WDDataStructures\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-06T01:28:16.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataStructure.cs",
+              "DocumentMoniker": "C:\\Users\\wille\\source\\repos\\WDDataStructures\\WDDataStructures\\DataStructure.cs",
+              "RelativeDocumentMoniker": "WDDataStructures\\DataStructure.cs",
+              "ToolTip": "C:\\Users\\wille\\source\\repos\\WDDataStructures\\WDDataStructures\\DataStructure.cs",
+              "RelativeToolTip": "WDDataStructures\\DataStructure.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:18:57.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wille\\source\\repos\\WDDataStructures\\WDDataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "WDDataStructures\\Program.cs",
+              "ToolTip": "C:\\Users\\wille\\source\\repos\\WDDataStructures\\WDDataStructures\\Program.cs",
+              "RelativeToolTip": "WDDataStructures\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:17:25.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

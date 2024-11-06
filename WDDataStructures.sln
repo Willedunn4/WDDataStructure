@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDDataStructures", "WDDataStructures\WDDataStructures.csproj", "{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{142C35C8-6BB9-496C-B997-6738518F3F59}"
+	ProjectSection(SolutionItems) = preProject
+		data.txt = data.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE23D9A-D3F8-452B-B75A-2593A7939BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63F1EDF7-C74E-4950-B964-41DB29CA87CD}
+	EndGlobalSection
+EndGlobal

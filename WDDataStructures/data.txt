@@ -1,0 +1,10 @@
+Alice - 85
+Bob - 90
+Charlie - 75
+Diana - 88
+Eve - 92
+Frank - 80
+Grace - 87
+Heidi - 91
+Ivan - 78
+Judy - 89
